@@ -1,0 +1,1 @@
+python3 ../evaluate.py --data-dir "../data/sweetk/K-Deep-Fashion-Shapeless/쉐이프리스 의류 및 포즈 데이터/" --num-classes 16 --labels_num 0 --model-restore "../log/checkpoint_150.pth.tar"
